@@ -1,0 +1,140 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L0zLsl9.png"  group-title="CREDITS", Creado x : Maicol IPTV 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L0zLsl9.png" group-title="CREDITS", https://i.ytimg.com/vi/9zypagahAVk/mqdefault.jpg
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="IPTV MAICOL", AE Mundo
+http://45.71.185.142:8500/play/a01i
+#EXTINF:-1 group-title="IPTV MAICOL", AXN
+http://45.71.185.142:8500/play/a02y
+#EXTINF:-1 group-title="IPTV MAICOL", CNN Espanol
+http://45.71.185.142:8500/play/a00n
+#EXTINF:-1 group-title="IPTV MAICOL", Canal Claro
+http://45.71.185.142:8500/play/a03j
+#EXTINF:-1 group-title="IPTV MAICOL", Canal Estrellas
+http://45.71.185.142:8500/play/a01m
+#EXTINF:-1 group-title="IPTV MAICOL", Cartoon Network
+http://45.71.185.142:8500/play/a00f
+#EXTINF:-1 group-title="IPTV MAICOL", Cinecanal
+http://45.71.185.142:8500/play/a005
+#EXTINF:-1 group-title="IPTV MAICOL", Cinemax
+http://45.71.185.142:8500/play/a02w
+#EXTINF:-1 group-title="IPTV MAICOL", Claro Cinema
+http://45.71.185.142:8500/play/a03r
+#EXTINF:-1 group-title="IPTV MAICOL", Discovery Channel
+http://45.71.185.142:8500/play/a018
+#EXTINF:-1 group-title="IPTV MAICOL", Discovery Kids
+http://45.71.185.142:8500/play/a00m
+#EXTINF:-1 group-title="IPTV MAICOL", Discovery Turbo
+http://45.71.185.142:8500/play/a039
+#EXTINF:-1 group-title="IPTV MAICOL", Disney Channel
+http://45.71.185.142:8500/play/a017
+#EXTINF:-1 group-title="IPTV MAICOL", Disney Jr
+http://45.71.185.142:8500/play/a013
+#EXTINF:-1 group-title="IPTV MAICOL", Disney XD
+http://45.71.185.142:8500/play/a002
+#EXTINF:-1 group-title="IPTV MAICOL", ESPN
+http://45.71.185.142:8500/play/a01e
+#EXTINF:-1 group-title="IPTV MAICOL", ESPN 2
+http://45.71.185.142:8500/play/a015
+#EXTINF:-1 group-title="IPTV MAICOL", Ecuador TV
+http://45.71.185.142:8500/play/a026
+#EXTINF:-1 group-title="IPTV MAICOL", Ecuavisa
+http://51.222.25.50:25461/bulltvn3w/appnew/510
+#EXTINF:-1 group-title="IPTV MAICOL", FX
+http://45.71.185.142:8500/play/a030
+#EXTINF:-1 group-title="IPTV MAICOL", FXM
+http://45.71.185.142:8500/play/a00t
+#EXTINF:-1 group-title="IPTV MAICOL", Fox Sports 1
+http://45.71.185.142:8500/play/a021
+#EXTINF:-1 group-title="IPTV MAICOL", Fox Sports 2
+http://45.71.185.142:8500/play/a01n
+#EXTINF:-1 group-title="IPTV MAICOL", Fox Sports 3
+http://45.71.185.142:8500/play/a01o
+#EXTINF:-1 group-title="IPTV MAICOL", GOL TV
+http://45.71.185.142:8500/play/a03b
+#EXTINF:-1 group-title="IPTV MAICOL", GamaTV
+http://45.71.185.142:8500/play/a027
+#EXTINF:-1 group-title="IPTV MAICOL", HBO
+http://45.71.185.142:8500/play/a02v
+#EXTINF:-1 group-title="IPTV MAICOL", HBO 2
+http://45.71.185.142:8500/play/a00z
+#EXTINF:-1 group-title="IPTV MAICOL", HBO Family
+http://45.71.185.142:8500/play/a012
+#EXTINF:-1 group-title="IPTV MAICOL", HBO Plus
+http://45.71.185.142:8500/play/a010
+#EXTINF:-1 group-title="IPTV MAICOL", HBO XTREME SD
+http://45.71.185.142:8500/play/a011
+#EXTINF:-1 group-title="IPTV MAICOL", History Channel
+http://45.71.185.142:8500/play/a004
+#EXTINF:-1 group-title="IPTV MAICOL", HomeandHealth
+http://45.71.185.142:8500/play/a01w
+#EXTINF:-1 group-title="IPTV MAICOL", MTV
+http://45.71.185.142:8500/play/a008
+#EXTINF:-1 group-title="IPTV MAICOL", Nat Geo
+http://45.71.185.142:8500/play/a003
+#EXTINF:-1 group-title="IPTV MAICOL", NatGeo Kids
+http://45.71.185.142:8500/play/a00e
+#EXTINF:-1 group-title="IPTV MAICOL", Nick Jr
+http://45.71.185.142:8500/play/a038
+#EXTINF:-1 group-title="IPTV MAICOL", Nickelodeon
+http://45.71.185.142:8500/play/a001
+#EXTINF:-1 group-title="IPTV MAICOL", RCN Novelas
+http://45.71.185.142:8500/play/a03i
+#EXTINF:-1 group-title="IPTV MAICOL", Space
+http://45.71.185.142:8500/play/a02z
+#EXTINF:-1 group-title="IPTV MAICOL", TBS
+http://45.71.185.142:8500/play/a03k
+#EXTINF:-1 group-title="IPTV MAICOL", TC Television
+http://45.71.185.142:8500/play/a02d
+#EXTINF:-1 group-title="IPTV MAICOL", TNT
+http://45.71.185.142:8500/play/a00g
+#EXTINF:-1 group-title="IPTV MAICOL", TV+ HD
+http://45.71.185.142:8500/play/a03h
+#EXTINF:-1 group-title="IPTV MAICOL", Telemundo
+http://45.71.185.142:8500/play/a01p
+#EXTINF:-1 group-title="IPTV MAICOL", Warner
+http://45.71.185.142:8500/play/a01a
+#EXTINF:-1 tvg-id="STARCHANNEL" group-title="IPTV MAICOL", STAR CHANNEL
+http://51.222.25.50:25461/bulltvn3w/appnew/3475
+#EXTINF:-1 group-title="IPTV MAICOL", Paramount Channel
+http://181.78.10.235:58001/play/a0ac/index.m3u8
+#EXTINF:-1 group-title="IPTV MAICOL", Teleamazonas SD
+http://200.24.132.99:8000/play/a00n
+#EXTINF:-1 group-title="IPTV MAICOL", TCM
+http://200.24.132.99:8000/play/a01k
+#EXTINF:-1 group-title="IPTV MAICOL",358 TVC
+http://190.61.102.67:31589/play/a04m/index.m3u8
+#EXTINF:-1 group-title="IPTV MAICOL ",Canal Estrellas
+http://181.78.22.214:8000/play/a026
+#EXTINF:-1 group-title="IPTV MAICOL", ESPN CO
+http://181.78.22.214:8000/play/a01c
+#EXTINF:-1 group-title="IPTV MAICOL", Movistar TV
+http://181.78.10.235:58002/play/a0af/index.m3u8
+#EXTINF:-1 group-title="IPTV MAICOL", Tooncast
+http://181.78.10.235:58002/play/a0cu/index.m3u8
+#EXTINF:-1 tvg-id="1dc467d12c3ef5cb9608b2c1aa380ebd" group-title="IPTV MAICOL", TyC Sports HD
+http://200.59.213.30:9981/stream/channelid/1365754909?profile=pass
+#EXTINF:-1 tvg-id="9ba24de232812c9dd013472305396b32" group-title="IPTV MAICOL", History 2
+http://200.59.213.30:9981/stream/channelid/1649255067?profile=pass
+#EXTINF:-1 tvg-id="9ba24de232812c9dd013472305396b32" group-title="IPTV MAICOL", Doraemon 
+http://51.222.25.50:25461/bulltvn3w/appnew/3548¨
+#EXTINF:-1 tvg-id="9ba24de232812c9dd013472305396b32" group-title="IPTV MAICOL",  MOVISTAR COMEDIA
+http://51.222.25.50:25461/bulltvn3w/appnew/3577
+#EXTINF:-1 tvg-id="9ba24de232812c9dd013472305396b32" group-title="IPTV MAICOL",  DIRECTV SPORTS 
+http://51.222.25.50:25461/bulltvn3w/appnew/3293
+#EXTINF:-1 tvg-id="9ba24de232812c9dd013472305396b32" group-title="IPTV MAICOL", EL CANAL DEL FUTBOL
+http://51.222.25.50:25461/bulltvn3w/appnew/3390
+#EXTINF:-1 tvg-id="9ba24de232812c9dd013472305396b32" group-title="IPTV MAICOL", RTS EC
+http://51.222.25.50:25461/bulltvn3w/appnew/513
+#EXTINF:-1 tvg-id="9ba24de232812c9dd013472305396b32" group-title="IPTV MAICOL", GAMAVISION
+http://51.222.25.50:25461/bulltvn3w/appnew/512
+
+
+
+
+
